@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dolano</groupId>
-	<artifactId>lab-4-subject</artifactId>
+	<artifactId>lab-4-adjective</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lab-4-subject</name>
+	<name>lab-4-adjective</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
